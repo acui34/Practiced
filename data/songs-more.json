@@ -1,0 +1,9 @@
+{ "index" : { "_index": "songs", "_id" : "3" } }
+{"artist": "Oasis", "name": "Wonderwall","difficulty": 1, "youtube": "o8wM8inaqmo", "resource-link": "https://tabs.ultimate-guitar.com/tab/oasis/wonderwall-chords-165916","resource-name": "Guitar Tab","tags": ["Guitar","Easy", "Starter Friendly"]}
+{ "index" : { "_index": "songs", "_id" : "4" } }
+{"artist": "Ed Sheeran", "name": "Perfect","difficulty": 2, "youtube": "OCYXDBOZPp8", "resource-link": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589","resource-name": "Guitar Tab","tags": ["Guitar","Easy", "Pop", "Love"]}
+{ "index" : { "_index": "songs", "_id" : "5" } }
+{"artist": "Johann Sebastian Bach", "name": "Prelude from Lute Suite No 4 in E Major","difficulty": 5, "youtube": "Bheo4LGFODw", "resource-link": "https://wernerguitareditions.com/products/prelude-e-major-bwv-1006a-guitar-pdf","resource-name": "Music sheet","tags": ["Lute", "Guitar","Classical Guitar", "Classical Music"]}
+{ "index" : { "_index": "songs", "_id" : "6" } }
+{"artist": "Masaaki Kishibe", "name": "Hana","difficulty": 3, "youtube": "vFwwUGb92F4", "resource-link": "https://www.songsterr.com/a/wsa/masaaki-kishibe-hana-tab-s42813t0","resource-name": "Guitar Tab","tags": ["Guitar","Beautiful","Japanese","Fingerstyle", "Acoustic Guitar" ]}
+

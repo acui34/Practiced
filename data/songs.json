@@ -1,0 +1,5 @@
+{ "index" : { "_index": "songs", "_id" : "1" } }
+{"artist": "N. Paganini", "name": "Paganini Caprice No.5","difficulty": 5, "youtube": "0jXXWBt5URw", "resource-link": "https://violinsheetmusic.org/files/download/classical/paganini-caprice-5.pdf","resource-name": "Music Sheet for Piano","tags": ["Classical Music", "Violin", "Ling Ling's favorite"]}
+{ "index" : { "_index": "songs", "_id" : "2" } }
+{"artist": "Yiruma", "name": "River Flows In You","resource-name": "Music Sheet for Violin and Piano","tags": ["Piano","Love"]}
+
